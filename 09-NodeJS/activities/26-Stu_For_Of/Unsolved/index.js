@@ -1,0 +1,1 @@
+const songs = document.querySelectorAll("ul > li");
